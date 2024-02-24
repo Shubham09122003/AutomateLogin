@@ -1,4 +1,4 @@
-## Instabase Auto Login script using java and selenium webdriver
+## Auto Login script using java and selenium webdriver
 
 https://demoqa.com/login
 
